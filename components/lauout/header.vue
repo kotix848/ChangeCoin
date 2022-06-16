@@ -25,9 +25,9 @@ export default {
     }
   },
   methods: {
-    show(){
+    //show(){
 
-    }
+    //}
   }
 }
 </script>

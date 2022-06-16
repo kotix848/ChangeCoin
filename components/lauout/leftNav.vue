@@ -7,9 +7,9 @@
 
 
         .language
-            select(v-model="selected").select-language
-              option Русский
-              option Английский
+          select().select-language
+            option Русский
+            option Английский
       .bottom
         .contacts Контакты <br>
           a(href="#mail") support@coinloan.io
